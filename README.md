@@ -2,6 +2,6 @@
 
 I'm a PhD student in economics at Harvard.
 
-Interested in development economics, economic history & international trade.
+Interested in development, economic history & trade.
 
-matthewchen (at) g [dot] harvard [dot] edu
+Email: matthewchen (at) g [dot] harvard [dot] edu
