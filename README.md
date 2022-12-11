@@ -11,6 +11,4 @@ Contact: matthewchen (at) g [dot] harvard [dot] edu
 
 <sub> 
   <em> "Prince of Orange Landing at Brixham" (engraving by William Miller, dated 1852) </em>
-  <br/>
-  This engraving depicts arguably the most iconic moment of England's Glorious Revolution of 1688.
  <sub>
