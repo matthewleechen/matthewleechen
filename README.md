@@ -2,7 +2,7 @@
 
 I'm a PhD student in the Department of Economics at Harvard.
 
-Interested in development economics, economic history & international trade.
+Interested in economic history, development economics, labo(u)r economics & political economy.
 
 Contact: matthewchen (at) g [dot] harvard [dot] edu 
 <br/><br/><br/>
