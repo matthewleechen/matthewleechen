@@ -2,7 +2,7 @@
 
 I'm a PhD student in the Department of Economics at Harvard.
 
-Also an affiliate at the Center for History & Economics.
+I'm also an affiliate at the Center for History & Economics.
 
 Interested in development, history & political economy.
 
