@@ -23,3 +23,6 @@ Work in Progress:
 - **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring) 
 
 
+-------
+
+<sub>Profile picture: "_A View of Amsterdam, with the Oude Schans Canal and the Montelbaans Tower_" (Jacobus Storck, 1641-c.1692)</sub>
