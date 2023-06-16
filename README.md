@@ -14,8 +14,6 @@ Work in Progress:
 
 - **Agricultural Liberalization and Structural Transformation in Colonial Java, 1870-1942**
 
-- **Livestock, Commercialization, and Manorialism: Evidence from the Medieval Netherlands**
-
 - **Mapping the Market for Protection: The Case of 18th Century Amsterdam and the Baltic Trade**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
