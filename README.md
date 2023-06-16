@@ -12,7 +12,7 @@ Contact: matthewchen (at) g [dot] harvard [dot] edu
 
 Work in Progress:
 
-- **Agricultural Liberalization and Structural Transformation in Colonial Java, 1870-1942**
+- **Economic Liberalization and Structural Transformation in Colonial Java, 1870-1942**
 
 - **Mapping the Market for Protection: The Case of 18th Century Amsterdam and the Baltic Trade**
 
