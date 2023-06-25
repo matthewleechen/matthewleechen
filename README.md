@@ -12,7 +12,7 @@ Contact: matthewchen (at) g [dot] harvard [dot] edu
 
 Work in Progress:
 
-- **Economic Liberalization and Structural Transformation in the Dutch East Indies, 1888-1940**
+- **Shipping Networks and Structural Transformation: The _Pakketvaart_ in the Dutch East Indies, 1888-1940**
 
 - **Mapping the Market for Protection: The Case of 18th Century Amsterdam and the Baltic Trade**
 
