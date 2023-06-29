@@ -12,7 +12,7 @@ Contact: matthewchen (at) g [dot] harvard [dot] edu
 
 Work in Progress:
 
-- **A Market for Protection: The Case of 18th Century Amsterdam and the Baltic Trade**
+- **Political Connections and Trade Networks in Early Modern Amsterdam**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
