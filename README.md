@@ -12,13 +12,15 @@ Contact: matthewchen (at) g [dot] harvard [dot] edu
 
 Work in Progress:
 
-- **Political Connections and Trade Networks in Early Modern Amsterdam**
+- **The Quill and the Press: Naval Impressment and the War of 1812**
 
-- **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
+- **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring)
 
 - **Shipping Networks and Structural Transformation: The _Pakketvaart_ in the Dutch East Indies, 1888-1940**
 
-- **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring) 
+- **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
+
+- **Political Connections and Trade Networks in Early Modern Amsterdam**
 
 
 -------
