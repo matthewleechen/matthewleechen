@@ -20,7 +20,7 @@ Work in Progress:
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
-- **Politicized Trade: Patrician Connections and Baltic Trade Networks in Early Modern Amsterdam**
+- **Financing Trade Pioneers: The Case of Early Modern Amsterdam and the Baltic Trade**
 
 
 -------
