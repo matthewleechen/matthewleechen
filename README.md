@@ -20,7 +20,7 @@ Work in Progress:
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
-- **Politicized Trade: Patrician Connections and Trade Pioneering in Late 18th Century Amsterdam**
+- **Politicized Trade: Patrician Connections and Trade Pioneering in Amsterdam**
 
 
 -------
