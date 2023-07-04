@@ -22,7 +22,7 @@ Work in Progress:
 
 - **Politicized Trade: Patrician Connections and Trade Pioneering in Amsterdam**
 
-- **Credit and Social Networks in Amsterdam, 1851-1893**
+- **Credit Networks and Occupational Structure in Amsterdam, 1851-1893**
 
 
 -------
