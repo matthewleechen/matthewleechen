@@ -6,7 +6,7 @@ Interested in economic development, economic history, and labor economics. I hav
 
 
 
-Contact: matthewchen (at) g [dot] harvard [dot] edu 
+Contact: matthewchen [at] g [dot] harvard [dot] edu 
 
 --------
 
