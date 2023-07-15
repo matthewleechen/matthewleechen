@@ -14,7 +14,7 @@ Work in Progress:
 
 - **Credit Networks and Occupational Structure in Amsterdam, 1851-1893**
 
-- **Politicized Trade: Patrician Connections and Early Modern Globalization in the Dutch Republic**
+- **Diplomatic Connections and Trade Networks in the Dutch Republic**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
