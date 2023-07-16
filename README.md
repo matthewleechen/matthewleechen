@@ -2,7 +2,9 @@
 
 I'm a PhD student in the Department of Economics at Harvard University, and an affiliate at the Center for History and Economics.
 
-Interested in economic development, economic history, and labor economics. I have auxiliary interests in Dutch and Indonesian history. My CV is available [here](https://matthewleechen.github.io/cv/cv.pdf).
+My current work focuses on topics in economic development and growth, economic history, and labor economics. I'm particularly interested in networks and the transmission of ideas across time, as well as in Dutch and Indonesian history.
+
+My CV is available [here](https://matthewleechen.github.io/cv/cv.pdf).
 
 
 
