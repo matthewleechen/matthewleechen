@@ -27,6 +27,4 @@ Work in Progress:
 - **The Quill and the Press: Naval Impressment and US Attitudes to the War of 1812**
 
 
--------
 
-<sub>Profile picture: "_A View of Amsterdam, with the Oude Schans Canal and the Montelbaans Tower_" (Jacobus Storck, 1641-c.1692)</sub>
