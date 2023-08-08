@@ -14,8 +14,6 @@ Contact: matthewchen [at] g [dot] harvard [dot] edu
 
 Work in Progress:
 
-- **Credit Networks and Occupational Structure in Amsterdam, 1851-1893**
-
 - **Diplomacy and Trade Networks in the Dutch Republic**
 
 - **Naval Impressment and US Attitudes to the War of 1812**
@@ -23,5 +21,7 @@ Work in Progress:
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
 - **Shipping Networks, Structural Transformation, and the Indonesian National Revolution**
+
+- **The Dutch Book Trade and the Scientific Revolution**
 
 - **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring)
