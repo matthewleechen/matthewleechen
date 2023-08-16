@@ -18,7 +18,7 @@ Work in Progress:
 
 - **Political Connections and Trade Networks in the Dutch Republic**
   
-- **Science and Education in the Age of Exploration**
+- **Science and Human Capital in the Age of Exploration**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
