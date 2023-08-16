@@ -4,7 +4,7 @@ I'm a PhD student in the Department of Economics at Harvard University, and an a
 
 My current research focuses on topics in economic development and growth, economic history, and labor economics. I'm particularly interested in economic and social networks, the history of science and innovation, and measuring the transmission of ideas across time.
 
-My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_13_August_2023.pdf).
+My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_16_August_2023.pdf).
 
 
 
@@ -14,11 +14,11 @@ Contact: matthewchen [at] g [dot] harvard [dot] edu
 
 Work in Progress:
 
-- **Human Capital Formation in the Age of Exploration**
-
 - **Naval Impressment and US Attitudes to the War of 1812**
 
 - **Political Connections and Trade Networks in the Dutch Republic**
+  
+- **Science and Education in the Age of Exploration**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
