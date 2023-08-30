@@ -2,7 +2,7 @@
 
 I'm a PhD student in the Department of Economics at Harvard University, and an affiliate at the Center for History and Economics.
 
-My current research focuses on economic history, economic development and growth, and labor economics. I'm particularly interested in economic and social networks, the history of science and innovation, and measuring the transmission of ideas across time.
+My current research focuses on economic history, economic development and growth, and labor economics. I'm particularly interested in the history of science and innovation, the social and political aspects of trade and globalization, and measuring the transmission of ideas across time.
 
 My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_26_August_2023.pdf).
 
