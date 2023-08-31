@@ -6,7 +6,7 @@ My current research focuses on economic history, economic development and growth
 
 I'm particularly interested in the history of science and innovation, the social and political aspects of trade and globalization, and measuring the transmission of ideas across time.
 
-My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_26_August_2023.pdf).
+My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_31_Aug_2023.pdf).
 
 
 
@@ -18,9 +18,9 @@ Work in Progress:
 
 - **Expeditions, Science, and Human Capital in the Age of Enlightenment**
   
-- **Impressment and US Attitudes to the War of 1812**
+- **Impressment and American Attitudes to the War of 1812**
 
-- **Patrician Connections and Trade Networks in the Dutch Republic**
+- **Navigating Conflict: Trade and Warfare in the Early Modern Netherlands**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
