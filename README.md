@@ -22,6 +22,6 @@ Selected Work in Progress:
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
-- **Economic Liberalization and Indonesia's "National Awakening"**
+- **Economic Liberalization and the Indonesian National Awakening**
 
 - **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring)
