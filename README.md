@@ -14,13 +14,11 @@ Contact: matthewchen [at] g [dot] harvard [dot] edu
 
 --------
 
-Work in Progress:
+Selected Work in Progress:
 
 - **Expeditions, Science, and Human Capital in the Age of Enlightenment**
-  
-- **Impressment and American Attitudes to the War of 1812**
 
-- **Navigating Conflict: Trade and Warfare in the Early Modern Netherlands**
+- **Navigating Conflict: Trade Pioneering and Persistence following the Dutch Revolt, 1566-1648**
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
