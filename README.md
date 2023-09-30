@@ -22,6 +22,6 @@ Selected Work in Progress:
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
-- **Shipping Networks, Structural Transformation, and the Indonesian National Revolution**
+- **Economic Liberalization, Foreign Investment, and Indonesia's "National Awakening"**
 
 - **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring)
