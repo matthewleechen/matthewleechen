@@ -20,4 +20,4 @@ Selected Work in Progress:
 
 - **Economic Liberalization and Nationalism in Late Colonial Indonesia**
 
-- **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring)
+- **The Dutch Opinion on Colonialism: The Dutch East Indies, 1800-1949** (with Melissa Dell and Leander Heldring)
