@@ -8,8 +8,6 @@ My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_19_Oct_2023
 
 
 
-Contact: matthewchen [at] g [dot] harvard [dot] edu 
-
 --------
 
 Selected Work in Progress:
