@@ -4,7 +4,7 @@ I'm a PhD student in the Department of Economics at Harvard University, and an a
 
 My research examines science, innovation, trade, and the exchange of ideas in historical perspective, focusing on the British and Dutch contexts.
 
-My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_19_Oct_2023.pdf).
+My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_25_Oct_2023.pdf).
 
 
 
