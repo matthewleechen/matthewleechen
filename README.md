@@ -1,8 +1,8 @@
 #### Hello!
 
-I'm a PhD student in the Department of Economics at Harvard University, and an affiliate at the Center for History and Economics.
+I'm a PhD student in economics at Harvard, and an affiliate at the Center for History and Economics.
 
-My research examines science, innovation, trade, and the exchange of ideas in historical perspective, focusing on the British and Dutch contexts.
+Interested in science, innovation, trade, and labor markets in historical perspective.
 
 My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_25_Oct_2023.pdf).
 
@@ -18,6 +18,6 @@ Selected Work in Progress:
 
 - **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
 
-- **Economic Liberalization and Nationalism in Late Colonial Indonesia**
+- **Economic Liberalization and Labor Coercion in Late Colonial Indonesia**
 
 - **The Dutch Opinion on Colonialism: The Dutch East Indies, 1800-1949** (with Melissa Dell and Leander Heldring)
