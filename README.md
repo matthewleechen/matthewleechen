@@ -2,7 +2,7 @@
 
 I'm a PhD student in economics at Harvard, and an affiliate at the Center for History and Economics.
 
-Interested in science, innovation, trade, and labor markets in long run historical perspective.
+Interested in science, innovation, trade, and labor markets in long-run historical perspective.
 
 My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_25_Oct_2023.pdf).
 
