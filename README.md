@@ -1,23 +1,20 @@
-#### Hello!
-
+#### Hello! 
 I'm a PhD student in economics at Harvard, and an affiliate at the Center for History and Economics.
 
 Interested in science, innovation, trade, and labor markets in long-run historical perspective.
 
 My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_25_Oct_2023.pdf).
 
-
-
 --------
 
-Selected Work in Progress:
+Selected Projects: 
 
-- **Enlightened Journeys? Expeditions, Attitudes, and the Scientific Frontier**
+- **Innovation and Upper-Tail Human Capital Linkages in Britain, 1660-1870**
 
-- **Navigating Conflict: Trade Pioneering and Persistence following the Dutch Revolt**
+- **Expeditions, Attitudes, and the Scientific Frontier**
 
-- **Scientist-Inventor Networks and the Exchange of Ideas: The Royal Society of London, 1660-1870**
+- **The Spread of the Indonesian Independence Movement, c.1890-1949**
 
-- **Economic Liberalization and Labor Coercion in Late Colonial Indonesia**
+- **The Dutch Revolt, Chartered Companies, and Trade Persistence, 1566-1795**
 
 - **The Dutch Opinion on Colonialism: The Dutch East Indies, 1800-1949** (with Melissa Dell and Leander Heldring)
