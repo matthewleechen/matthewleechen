@@ -13,7 +13,7 @@ Selected Projects:
 
 - **Expeditions, Attitudes, and the Scientific Frontier**
 
-- **The Spread of the Indonesian Independence Movement, c.1890-1949**
+- **Trade, Language, and the Indonesian Independence Movement, c.1890-1949**
 
 - **The Dutch Revolt, Chartered Companies, and Trade Persistence, 1566-1795**
 
