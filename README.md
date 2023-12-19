@@ -7,14 +7,12 @@ My CV is available [here](https://matthewleechen.github.io/cv/MLC_CV_11_Dec_2023
 
 --------
 
-Selected Projects: 
+Selected Work in Progress: 
 
-- **Innovation and Upper-Tail Human Capital Linkages in Britain, 1660-1870**
+- **Innovation and Upper-Tail Human Capital Linkages, 1660-1870**
 
-- **Expeditions, Attitudes, and the Scientific Frontier**
+- **Enlightened Journeys? Expeditions, Science, and Imperialism**
 
-- **The Dutch Revolt, Chartered Companies, and Trade Persistence, 1566-1795**
+- **Merchants and Monopolies: Trade and Politics following the Dutch Revolt**
 
-- **Trade, Language, and the Indonesian Independence Movement, c.1890-1949**
-
-- **The Dutch Opinion on Colonialism: The Dutch East Indies, 1800-1949** (with Melissa Dell and Leander Heldring)
+- **The Dutch Opinion on Colonialism** (with Melissa Dell and Leander Heldring)
