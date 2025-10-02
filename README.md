@@ -1,15 +1,24 @@
-Economics PhD Student @ Harvard
+Economics PhD Student @ Harvard<br>
+Affiliate @ [Harvard CHE](https://histecon.fas.harvard.edu); Fellow @ [NBER i^3](https://iii.pubpub.org/)
 
 ----
 
-Graduate Affiliate @:
-- [Center for History and Economics](https://histecon.fas.harvard.edu)
-- [Center for International Development](https://www.hks.harvard.edu/centers/cid)
+Research interests: knowledge production; economic history; economics of science & innovation
 
-----
+---- 
 
-Interests:
-- knowledge production
-- economic history 
-- economics of science & innovation
+Projects:
+
+- 300 Years of British Patents<br>
+  <sup>*w/ Enrico Berkes & Matteo Tranchero*</sup>
+  
+- The Scientific Content of Innovation<br>
+  <sup>*w/ Nathan Lazarus*</sup>
+
+- "Race Science"<br>
+ <sup>*w/ Hewson Duffy & Matthias Weigand*</sup>
+
+- Deep and Shallow Citations
+
+
 
